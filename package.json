@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-redis-connection",
+  "version": "1.0.0",
+  "description": "An example of a Redis connection in AWS Lambda in Node.js",
+  "main": "index.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "redis": "3.1.2"
+  }
+}
